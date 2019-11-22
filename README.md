@@ -1,6 +1,6 @@
 ## Jest Tutorial Files
 
-This repo contains sample files that I put together while doing the tutorials listed below. They're a great way to learn the basics of Jest using Enzyme. I highly suggest following along and doing the tutorials yourself but I wanted to share the repo that I created in case you wanted something to refer to.
+This repo contains sample files that I put together while doing the tutorials listed below. They're a great way to learn the basics of Jest using Enzyme. I highly suggest following along and doing the tutorials yourself but I wanted to share the repo that I created in case you wanted something to refer to. Don't forget to do `npm install` !
 
 [Part 1](https://blog.usejournal.com/testing-with-jest-and-enzyme-in-react-part-1-162ce7466128)
 
