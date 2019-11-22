@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> rendering renders correctly 1`] = `
+"<form className=\\"form-group\\">
+  <fieldset className=\\"form-group\\">
+    <label className=\\"form-label\\">
+      First Number:
+    </label>
+    <input type=\\"text\\" id=\\"number1\\" className=\\"form-input\\" value=\\"\\" onChange={[Function: bound handleFirstNumber]} />
+  </fieldset>
+  <fieldset className=\\"form-group\\">
+    <label className=\\"form-label\\">
+      Second Number:
+    </label>
+    <input type=\\"text\\" id=\\"number2\\" className=\\"form-input\\" value=\\"\\" onChange={[Function: bound handleSecondNumber]} />
+  </fieldset>
+  <div className=\\"form-group\\" />
+</form>"
+`;
